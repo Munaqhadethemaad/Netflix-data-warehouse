@@ -1,0 +1,3 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,The Example Director,John Doe,USA,January 1, 2020,2020,PG,90 min,Dramas,An example movie for testing.
+s2,TV Show,Another Title,Jane Doe,Canada,March 1, 2021,2021,TV-14,2 Seasons,Comedies,A sample show description.
